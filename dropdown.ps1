@@ -1,5 +1,5 @@
 # Define variables
-$pat = "Your_Personal_Access_Token"
+$pat = "schxwoxjl5jlpfin2lmvmvwwiydonxjyzckhlp7eng2sc3cphasa"
 $organization = "Your_Azure_DevOps_Organization"
 $project = "Your_Azure_DevOps_Project"
 $workItemId = "Your_Work_Item_ID"
